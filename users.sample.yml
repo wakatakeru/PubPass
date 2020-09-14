@@ -1,0 +1,9 @@
+version: '1.0'
+
+users:
+  - name: Takeru Shimizu
+    linux: wakatakeru
+    github: wakatakeru
+  - name: Example Example
+    linux: example
+    github: example
